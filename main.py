@@ -2,7 +2,7 @@ import pandas
 import calculate                    
 
 print ("hello world") 
-print (calculate.X)
+print (calculate.x)
 print("hi again") 
 
 print ("bye bye")
